@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace ConsoleApp1.NovaPasta
 {
     public class Tons
     {
@@ -23,7 +23,7 @@ namespace ConsoleApp1
         public string VII { get; set; }
 
 
-     
+
 
 
 
@@ -61,6 +61,6 @@ namespace ConsoleApp1
             // List<string> F = new List<string> { "F", "F#", "G", "G#", "A", "A#", "B", "C", "C#", "D", "D#", "E" };
         };*/
 
-        
+
     }
 }
